@@ -1,4 +1,4 @@
-# (SIBDES) Sistema de informacion para banco de sangre
+# (CITAS MEDICAS) Sistema asignacion de citas medias
 
 Lo que necesitas modificar:
 
